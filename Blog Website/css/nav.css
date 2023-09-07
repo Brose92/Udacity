@@ -1,0 +1,20 @@
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    flex-direction: row;
+    align-items: center;
+}
+
+.nav-links li {
+    margin: 0 10px;
+}
+
+.nav-links li a {
+    text-decoration: none;
+    color: #262626;
+}
+
+.nav-links li a:hover {
+    color:blueviolet
+}
