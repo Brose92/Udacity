@@ -1,5 +1,6 @@
 @import url(./nav.css);
 @import url(./blog.css);
+@import url(./media.css);
 
 .header-container {
     display: flex;
