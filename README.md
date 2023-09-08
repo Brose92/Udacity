@@ -1,2 +1,2 @@
 # my-first-repo
-Practice account for learning Git
+Udacity course projects
